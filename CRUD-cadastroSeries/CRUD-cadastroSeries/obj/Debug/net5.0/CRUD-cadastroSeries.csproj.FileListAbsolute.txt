@@ -1,0 +1,16 @@
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\bin\Debug\net5.0\CRUD-cadastroSeries.exe
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\bin\Debug\net5.0\CRUD-cadastroSeries.deps.json
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\bin\Debug\net5.0\CRUD-cadastroSeries.runtimeconfig.json
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\bin\Debug\net5.0\CRUD-cadastroSeries.runtimeconfig.dev.json
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\bin\Debug\net5.0\CRUD-cadastroSeries.dll
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\bin\Debug\net5.0\ref\CRUD-cadastroSeries.dll
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\bin\Debug\net5.0\CRUD-cadastroSeries.pdb
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\obj\Debug\net5.0\CRUD-cadastroSeries.csproj.AssemblyReference.cache
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\obj\Debug\net5.0\CRUD-cadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\obj\Debug\net5.0\CRUD-cadastroSeries.AssemblyInfoInputs.cache
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\obj\Debug\net5.0\CRUD-cadastroSeries.AssemblyInfo.cs
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\obj\Debug\net5.0\CRUD-cadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\obj\Debug\net5.0\CRUD-cadastroSeries.dll
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\obj\Debug\net5.0\ref\CRUD-cadastroSeries.dll
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\obj\Debug\net5.0\CRUD-cadastroSeries.pdb
+C:\Users\SUPORTE TIC\Documents\docs natan\Projects-C#\CRUD-cadastroSeries\CRUD-cadastroSeries\obj\Debug\net5.0\CRUD-cadastroSeries.genruntimeconfig.cache
